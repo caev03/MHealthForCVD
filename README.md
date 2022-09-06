@@ -1,4 +1,4 @@
-## Mobile Apps in Articles
+# Mobile Apps in Articles
 
 After the articles were extracted from the query search in Google Scholar, these were reviewed to find if they mention any mobile application developed or tested. If so, the app was reviewed to retrieve the following fields.
 
@@ -21,7 +21,7 @@ After the articles were extracted from the query search in Google Scholar, these
 - Wearable use
 
 
-## Mobile Appplications in Play Store
+# Mobile Appplications in Play Store
 
 A query was used in Play Store to retrive all of the apps associated with cardiovascular diseases. After running the query, all the applications were reviewed to fill the following fields: 
 
@@ -33,7 +33,7 @@ A query was used in Play Store to retrive all of the apps associated with cardio
 - Rating
 - 3 main features
 
-## Stratification of mobile applications found in Play Store
+# Stratification of mobile applications found in Play Store
 
 After all of the apps were extracted they were sorted by rating and last update date to select the ones that were better to test.
 
