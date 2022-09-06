@@ -52,6 +52,8 @@ A query was used in Play Store to retrive all of the apps associated with cardio
 - Rating
 - 3 main features
 
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQld1oiDuVO5_l_g3_Eaksu_-Fhv4QyDKZ98XkwBnXWxNi-MDh-lR2JIXA0zK7SRw/pub?output=xlsx&gid=0" class="buttonn" ><strong>Download Full Dataset - Excel File</strong></a>
+
 # Stratification of mobile apps found in Play Store
 
 After all of the apps were extracted they were sorted by rating and last update date to select the ones that were better to test.
@@ -59,3 +61,5 @@ After all of the apps were extracted they were sorted by rating and last update 
 30 apps were selected from the categories Risk Calculator, Signal Monitoring and Diet.
 
 10 apps were selected from the subcategories of Education.
+
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQld1oiDuVO5_l_g3_Eaksu_-Fhv4QyDKZ98XkwBnXWxNi-MDh-lR2JIXA0zK7SRw/pub?output=xlsx&gid=0" class="buttonn" ><strong>Download Full Dataset - Excel File</strong></a>

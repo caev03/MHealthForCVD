@@ -6,6 +6,8 @@ In order to identify the
 
 # Systematic Literature Review
 
+![Diagrama Seleccion Datos](./assets/imgs/DiagramaProcesamientoPapersMHealth.drawio.png)
+
 ## Information Collection
 
 ## Screening
