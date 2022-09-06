@@ -2,12 +2,12 @@
 
 After the articles were extracted from the query search in Google Scholar, these were reviewed to find if they mention any mobile application developed or tested. If so, the app was reviewed to retrieve the following fields.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| head1        | head two          |
+|:-------------|:------------------|
+| ok           | good swedish fish |
+| out of stock | good and plenty   |
+| ok           | good `oreos`      |
+| ok           | good `zoute` drop |
 
 - App name
 - App description

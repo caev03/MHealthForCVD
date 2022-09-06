@@ -11,4 +11,26 @@
 	padding: 0px;
 	line-height: 14px;
 	font-size: 14px;
+    margin-top: 0%;
+    background-color: transparent;
+}
+
+body {
+    background-color: #f7fafd;
+}
+header {
+    background-color: #f7fafd;
+}
+
+header h1 {
+    color: #235796;
+    text-shadow: none;
+}
+
+#banner {
+    background-color: #569099;
+}
+#banner .button {
+    background: linear-gradient(#CBDEE2, #A4C6CC);
+    border: none;
 }
