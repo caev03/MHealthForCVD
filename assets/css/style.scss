@@ -3,3 +3,12 @@
 
 @import "{{ site.theme }}";
 
+
+#banner .fork {
+	position: fixed;
+	left: 50%;
+	margin-left: -325px;
+	padding: 0px;
+	line-height: 14px;
+	font-size: 14px;
+}
