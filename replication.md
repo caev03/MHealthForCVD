@@ -4,16 +4,16 @@ After the articles were extracted from the query search in Google Scholar, these
 
 | Field        | Description       |
 |:-------------|:------------------|
-| App Name     | good swedish fish |
-| App Description | good and plenty   |
-| Target Risk Factor | good `oreos`      |
-| Primary Outcome    | good `zoute` drop |
-| Operative System | Androi |
+| App Name     | App Name identified within the article |
+| App Description | brief description of app capabilities and features |
+| Target Risk Factor | Risk Factor addressed by the usage of the app |
+| Primary Outcome    | Expected result from the usage of the app.  |
+| Operative System | Android, iOS or HarmonyOS |
 | Available in Markets | Yes/No |
-| Minimun OS Version | Num |
-| Download Link | link |
-| APK/IPA weight | 12345 g |
-| App uses/requires a wearable device | Details |
+| Minimun OS Version | Number or Version reference |
+| Download Link | Link in which the app can be found |
+| APK/IPA weight | Weight of the installation package |
+| App uses/requires a wearable device | Yes/No + Details |
 
 ## Example of the identified apps
 
@@ -21,14 +21,14 @@ After the articles were extracted from the query search in Google Scholar, these
 |:-------------|:------------------|
 | App Name     | mActive |
 | App Description | "The impressive range of features delivered by each programme includes:    |
-| | Weekly nutrition and exercise targets |
-| | Personalised work outs with detailed instructional videos |
-| | Real time activity and nutrition tracking |
-| | Integrated data importing from Fitbug and several leading third party health and fitness apps |
-| | Regular rewards and feedback |
-| | Motivational articles and a regular supply of nutritious recipes |
-| | Daily lifestyle tracking |
-| | Regular webinars and the chance to quiz experts on health and fitness issues" |
+| | 1. Weekly nutrition and exercise targets |
+| | 2. Personalised work outs with detailed instructional videos |
+| | 3. Real time activity and nutrition tracking |
+| | 4. Integrated data importing from Fitbug and several leading third party health and fitness apps |
+| | 5. Regular rewards and feedback |
+| | 6. Motivational articles and a regular supply of nutritious recipes |
+| | 7. Daily lifestyle tracking |
+| | 8. Regular webinars and the chance to quiz experts on health and fitness issues" |
 | Target Risk Factor | Physical activity  |
 | Primary Outcome    | Increase / Promote Physical Activity |
 | Operative System | Android |
