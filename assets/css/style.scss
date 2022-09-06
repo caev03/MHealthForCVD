@@ -17,18 +17,22 @@
 
 body {
     background-color: #f7fafd;
+    background: none;
 }
 header {
     background-color: #f7fafd;
+    background: none;
+    box-shadow: none;
 }
 
 header h1 {
-    color: #235796;
+    color: #569099;
     text-shadow: none;
 }
 
 #banner {
     background-color: #569099;
+    border: none;
 }
 #banner .button {
     background: linear-gradient(#CBDEE2, #A4C6CC);
