@@ -56,3 +56,21 @@ td {
 td:first-child {
 	border-left: 1px solid #569099;
 }
+
+.buttonn {
+	/* border: 1px solid #dba500; */
+	/* background: linear-gradient(#CBDEE2, #A4C6CC); */
+	border-radius: 2px;
+	/* box-shadow: inset 0px 1px 0px rgba(255,255,255,0.4),0px 1px 1px rgba(0,0,0,0.1); */
+	background-color: #569099;
+	/* margin-left: 5px; */
+	padding: 10px 12px;
+	margin-bottom: 20px;
+	/* line-height: 14px; */
+	font-size: 18px;
+	color: #333;
+	/* font-weight: bold; */
+	display: inline-block;
+	text-align: center;
+	width: 96%;
+}

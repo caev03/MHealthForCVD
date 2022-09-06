@@ -38,7 +38,7 @@ After the articles were extracted from the query search in Google Scholar, these
 | APK/IPA weight | 1.8 MB |
 | App uses/requires a wearable device | Yes, Fitbug ORB |
 
-
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQld1oiDuVO5_l_g3_Eaksu_-Fhv4QyDKZ98XkwBnXWxNi-MDh-lR2JIXA0zK7SRw/pub?output=xlsx&gid=0" class="buttonn" ><strong>Download Full Dataset - Excel File</strong></a>
 
 # Mobile Apps in Play Store
 
