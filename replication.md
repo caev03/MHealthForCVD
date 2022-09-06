@@ -15,16 +15,29 @@ After the articles were extracted from the query search in Google Scholar, these
 | APK/IPA weight | 12345 g |
 | App uses/requires a wearable device | Details |
 
-- App name
-- App description
-- Risk factor association
-- Primary Outcome
-- Operative System
-- Available in Markets
-- Minimum version
-- Download link
-- APK weight
-- Wearable use
+## Example of the identified apps
+
+| Field        | Description       |
+|:-------------|:------------------|
+| App Name     | mActive |
+| App Description | "The impressive range of features delivered by each programme includes:    |
+| | Weekly nutrition and exercise targets |
+| | Personalised work outs with detailed instructional videos |
+| | Real time activity and nutrition tracking |
+| | Integrated data importing from Fitbug and several leading third party health and fitness apps |
+| | Regular rewards and feedback |
+| | Motivational articles and a regular supply of nutritious recipes |
+| | Daily lifestyle tracking |
+| | Regular webinars and the chance to quiz experts on health and fitness issues" |
+| Target Risk Factor | Physical activity  |
+| Primary Outcome    | Increase / Promote Physical Activity |
+| Operative System | Android |
+| Available in Markets | Not in certified |
+| Minimun OS Version | Android 4.3 |
+| Download Link | https://m.apkpure.com/fitbug/com.fitbug.androidapp |
+| APK/IPA weight | 1.8 MB |
+| App uses/requires a wearable device | Yes, Fitbug ORB |
+
 
 
 # Mobile Apps in Play Store
