@@ -2,12 +2,18 @@
 
 After the articles were extracted from the query search in Google Scholar, these were reviewed to find if they mention any mobile application developed or tested. If so, the app was reviewed to retrieve the following fields.
 
-| head1        | head two          |
+| Field        | Description       |
 |:-------------|:------------------|
-| ok           | good swedish fish |
-| out of stock | good and plenty   |
-| ok           | good `oreos`      |
-| ok           | good `zoute` drop |
+| App Name     | good swedish fish |
+| App Description | good and plenty   |
+| Target Risk Factor | good `oreos`      |
+| Primary Outcome    | good `zoute` drop |
+| Operative System | Androi |
+| Available in Markets | Yes/No |
+| Minimun OS Version | Num |
+| Download Link | link |
+| APK/IPA weight | 12345 g |
+| App uses/requires a wearable device | Details |
 
 - App name
 - App description
