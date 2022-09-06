@@ -1,5 +1,3 @@
-# MHealthForCVD
-
 ## Mobile Apps in Articles
 
 After the articles were extracted from the query search in Google Scholar, these were reviewed to find if they mention any mobile application developed or tested. If so, the app was reviewed to retrieve the following fields.
