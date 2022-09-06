@@ -2,6 +2,6 @@ remote_theme: pages-themes/leap-day@v0.2.0
 title: MHealth for CVD management
 description: Mobile Health applied to the prevention and detection of cardiovascular diseases.
 show_downloads: ["false"]
-icon: /assets/imgs/icon.png
+icon: ./assets/imgs/icon.png
 plugins:
 - jekyll-remote-theme
