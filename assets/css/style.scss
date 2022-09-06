@@ -16,11 +16,11 @@
 }
 
 body {
-    background-color: #f7fafd;
+    background-color: #f7fafd !important;
     background: none;
 }
 header {
-    background-color: #f7fafd;
+    background-color: #f7fafd !important;
     background: none;
     box-shadow: none;
 }
@@ -35,6 +35,20 @@ header h1 {
     border: none;
 }
 #banner .button {
-    background: linear-gradient(#CBDEE2, #A4C6CC);
+    background: transparent;
     border: none;
+    font-size: 18px;
+    box-shadow: none;
+}
+a strong {
+    color: white;
+}
+
+#banner .button:hover {
+	background: linear-gradient(#CBDEE2, #A4C6CC);
+	background-color: #ffeca0;
+}
+
+td:first-child {
+	border-left: 1px solid #569099;
 }
